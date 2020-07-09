@@ -1,0 +1,68 @@
+html{
+    background-image: url(./Sign\ up\ page\ img.jpg);
+}
+h1{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    font-weight: 800;
+    text-decoration: underline;
+    text-shadow: 3px 4px 4px #38ffff;
+}
+form{
+    font-size: 30px;
+    text-align:center;
+}
+form #First_name, #Last_name, #email{
+    margin-top: 25px;
+    font-size:small;
+    font-family: "Avant Garde", "Segoe UI", "Sans-serif";
+    font-size: 18px;
+    width: 280px;
+    height: 20px;
+    min-width: 0px;
+    max-width: 500px;
+}
+form #Confirm_Password, #password{
+    margin-top: 25px;
+    font-size:small;
+    font-family: "Avant Garde", "Segoe UI", "Sans-serif";
+    font-size: 18px;
+    width: 250px;
+    height: 20px;
+    min-width: 0px;
+    max-width: 500px;
+}
+form #submit{
+    margin-top: 25px;
+    font-size:small;
+    font-family: "Avant Garde", "Segoe UI", "Sans-serif";
+    font-size: 18px;
+    width: 150px;
+    height: 30px;
+    min-width: 0px;
+    max-width: 200px;
+}
+form label{
+    color: white;
+}
+a:link{
+    display:block;
+    text-align:center;
+    color: white;
+}
+a:visited{
+    display:block;
+    text-align:center;
+    color: white;
+}
+a:hover{
+    display:block;
+    text-align:center;
+    color: rgb(252, 0, 0);
+}
+a:active{
+    display:block;
+    text-align:center;
+    color: white;
+}

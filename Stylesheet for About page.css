@@ -1,0 +1,17 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: #000000;
+    text-align: center;
+    font-weight: 800;
+    text-decoration: underline;
+    text-shadow: 3px 4px 4px #000000;
+}
+p{
+    font-size: 30px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+p strong{
+    font-weight: 700;
+    text-decoration: underline;
+}

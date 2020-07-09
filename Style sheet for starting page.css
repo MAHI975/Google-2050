@@ -1,0 +1,59 @@
+h1.heading {
+    font-size:35px;
+    color: teal;
+    font-weight: bolder;
+    text-align:center;
+    margin-bottom: 1px;
+    text-shadow: 3px 5px 4px #111111;
+}
+h3.Year{
+    color:#FFFFFF;
+    text-align:center;
+    margin-top: 1px;
+    text-shadow: 5px 4px 4px #111111;
+}
+p{
+    font-family: "Lucida Sans Typewriter","Lucida Console",Monospaced;
+    font-size:40px;
+}
+div.buttons p{
+    border:2px solid whitesmoke;
+    border-radius:5px;
+    background-color: #020844;
+    color: whitesmoke;
+    font-size:30px;
+    align:center;
+}
+p.login{
+    text-align:center;
+    min-width: 20px;
+    max-width:200px;
+    width:125px;
+}
+p.signup{
+    text-align:center;
+    align:center;
+    min-width:20ox;
+    max-width:200px;
+    width:150px;
+}
+p.about{
+    text-align:center;
+    min-width: 20px;
+    max-width:200px;
+    width:125px;
+}
+a:link{
+    color:white;
+    text-decoration:none;
+}
+a:visited{
+    color:white
+}
+a:hover{
+    color:cyan;
+    background-color: white;
+}
+html{
+    background-image: url("./wp3162036.jpg");
+}
